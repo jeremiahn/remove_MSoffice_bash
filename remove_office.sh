@@ -4,8 +4,8 @@
 # Microsoft Office Removal Script for macOS
 # =============================================================================
 # Purpose: Completely removes Microsoft Office applications and associated files
-# Author: System Administrator
-# Version: 2.0
+# Author: Jeremiah Nelson
+# Version: 1.5.0
 # Compatibility: macOS 10.12+ (Sierra and later)
 # Requirements: Administrative privileges (sudo access)
 # =============================================================================
